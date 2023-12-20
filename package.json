@@ -1,0 +1,23 @@
+{
+  "name": "caw_studios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadamganesh/caw_studios.git"
+  },
+  "author": "ganesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadamganesh/caw_studios/issues"
+  },
+  "homepage": "https://github.com/shadamganesh/caw_studios#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "cypress-mochawesome-reporter": "^3.7.0"
+  }
+}
